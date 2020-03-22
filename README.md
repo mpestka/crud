@@ -11,16 +11,15 @@ http://localhost:8080/api/v3/api-docs
 It deploys also swagger UI here:  
 http://localhost:8080/api/swagger-ui/index.html
 
-There is also 
-
 ### Endpoints:  
 
 
-| Method | Endpoint | Description |  
-| `GET` | `/api/products` | Retrieve a list of all products |  
-| `POST` | `/api/products` | Create a new product |  
-| `PUT` | `/api/products/{id}` | Update product by id |  
-| `DELETE` | `/api/products/{id}` | Delete a product (soft delete) |  
+ Method   | Endpoint             | Description
+ ---------|----------------------|--------------
+ `GET`    | `/api/products`      | Retrieve a list of all products
+ `POST`   | `/api/products`      | Create a new product
+ `PUT`    | `/api/products/{id}` | Update product by id  
+ `DELETE` | `/api/products/{id}` | Delete a product (soft delete)
 
 
 
