@@ -81,3 +81,5 @@ http://localhost:8080/api/v3/api-docs
 http://localhost:8080/api/swagger-ui/index.html  
 ##### Endpoints:
 http://localhost:8080/api/products
+##### H2 console (when enabled)
+http://localhost:8080/api/h2-console/
